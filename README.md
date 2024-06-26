@@ -1,9 +1,8 @@
-- 👋 Hi, I’m @Liebe001
+- 👋 Hi, I’m Alexandru
 - 👀 I’m interested in Backend
-- 🌱 I’m currently learning Spring, Hibernate
-- 💞️ I’m looking to collaborate ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
+- 🌱 I’m currently learning AWS
+- 📫 How to reach me: melnicalex256@gmail.com
+- 😄 Pronouns of my name: ah-lek-SAHN-droo
 - ⚡ Fun fact: ...
 
 <!---
